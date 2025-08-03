@@ -70,7 +70,7 @@ const courses = [
         id: 1,
         title: "HỌC BẰNG B",
         subtitle: "Tự động",
-        image: "/images/1.png",
+        image: "images/1.png",
         price: "18.400.000 VND",
         oldPrice: "21.400.000 VND",
         features: [
@@ -85,7 +85,7 @@ const courses = [
         id: 2,
         title: "HỌC BẰNG B",
         subtitle: "Cơ khí",
-        image: "/images/2.png",
+        image: "images/2.png",
         price: "21.200.000 VND",
         oldPrice: "24.200.000 VND",
         features: [
@@ -100,7 +100,7 @@ const courses = [
         id: 3,
         title: "HỌC BẰNG C1",
         subtitle: "",
-        image: "/images/3.png",
+        image: "images/3.png",
         price: "22.965.000 VND",
         oldPrice: "26.965.000 VND",
         features: [

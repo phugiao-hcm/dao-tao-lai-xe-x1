@@ -81,28 +81,28 @@ const teachers = [
         role: "GV Lý thuyết",
         experience: "5 năm kinh nghiệm",
         rating: 5,
-        image: "/images/gv_1.png",
+        image: "images/gv_1.png",
     },
     {
         name: "Trần Ngọc Nguyên",
         role: "GV Thực Hành",
         experience: "10 năm kinh nghiệm",
         rating: 5,
-        image: "/images/gv_2.png",
+        image: "images/gv_2.png",
     },
     {
         name: "Ngô Thiên Lương",
         role: "GV Lý Thuyết",
         experience: "5 năm kinh nghiệm",
         rating: 5,
-        image: "/images/gv_3.png",
+        image: "images/gv_3.png",
     },
     {
         name: "Nguyễn Minh Dũng",
         role: "GV Thực Hành",
         experience: "5 năm kinh nghiệm",
         rating: 5,
-        image: "/images/gv_4.png",
+        image: "images/gv_4.png",
     },
 ];
 
@@ -113,7 +113,7 @@ const videos = [
         views: "129.899",
         lessons: 12,
         duration: "3h12p",
-        image: "/images/vd_1.png",
+        image: "images/vd_1.png",
     },
     {
         title: "120 Tình Huống Mô Phỏng",
@@ -121,7 +121,7 @@ const videos = [
         views: "129.899",
         lessons: 14,
         duration: "3h12p",
-        image: "/images/vd_2.png",
+        image: "images/vd_2.png",
     },
     {
         title: "11 Bài Thi Sa Hình",
@@ -129,7 +129,7 @@ const videos = [
         views: "129.899",
         lessons: 1,
         duration: "3h12p",
-        image: "/images/vd_3.png",
+        image: "images/vd_3.png",
     },
     {
         title: "Mẹo Lái Xe Thực tế",
@@ -137,7 +137,7 @@ const videos = [
         views: "129.899",
         lessons: 15,
         duration: "3h12p",
-        image: "/images/vd_4.png",
+        image: "images/vd_4.png",
     },
 ];
 </script>
